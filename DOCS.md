@@ -1619,7 +1619,7 @@ __Arguments__
 <a name="unsendMessage"></a>
 ### api.unsendMessage(messageID[, callback])
 
-Revoke a message from anyone could see that message with `messageID`
+Revoke a message from anyone that could see that message with `messageID`
 
 Note: This will only work if the message is sent by you and sent less than 10 minutes ago.
 
